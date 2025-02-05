@@ -43,7 +43,7 @@ const InitialChoice = ({ onChoiceSelect }: InitialChoiceProps) => {
           onClick={() => onChoiceSelect('register')}
         >
           <h2 className="text-2xl font-semibold mb-4 text-gray-800">Register for RnE</h2>
-          <p className="text-gray-600">Register as a new user for RnE services</p>
+          <p className="text-gray-600">Register as a new user for RnE program</p>
         </motion.div>
 
         <motion.div
